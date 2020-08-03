@@ -29,6 +29,7 @@ Now that we created a workbook for Steve to analyze the current data at hand, we
 
 ### VBA Script Speed - 2018 - Refactored
 
+
 ![](Resources/VBA_Challenge_2018(Refactored).png) 
 
 ##### Elapsed Run Time = 0.1054688 Seconds
