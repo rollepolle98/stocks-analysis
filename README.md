@@ -33,9 +33,12 @@ Now that we created a workbook for Steve to analyze the current data at hand, we
 
 ##### Elapsed Run Time = 0.1054688 Seconds
 
-### Looking at the images above, we can clearly see that the refactored code for 2017 was 3.769531 seconds faster and 4.6796872 seconds faster for 2018. Further analyzation shows the refactored script run about 35 times faster for 2017 and 45 times faster for 2018. On average the refactored code runs about 40 times faster than the original.  
 
-### Based on the visuals and analysis, it’s clear that the refactored code helped increase the speed of the script making it more efficient and applicable to larger data sets.
+
+
+### *Looking at the images above, we can clearly see that the refactored code for 2017 was 3.769531 seconds faster and 4.6796872 seconds faster for 2018. Further analyzation shows the refactored script run about 35 times faster for 2017 and 45 times faster for 2018. On average the refactored code runs about 40 times faster than the original.*
+
+### *Based on the visuals and analysis, it’s clear that the refactored code helped increase the speed of the script making it more efficient and applicable to larger data sets.*
 
 ## Summary
 
