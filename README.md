@@ -53,3 +53,4 @@ The only disadvantage I can think of is that it just adds a lot more time to the
 Well to start off, the advantages listed above all apply to refactoring the original VBA. Refactoring the script allowed the speed of the script to increase on average 40 times faster, which helps it be more efficient. The script is much easier to understand when look at the code which is always an advantage. Lastly refactoring not only improved the speed and design but also the application in that the script can be applied to larger data sets without losing large amount of efficiency.
 
 The cons also apply in that refactoring the code added a significant amount of time to my analysis but in the end I believe that it is ultimately worth it.
+
